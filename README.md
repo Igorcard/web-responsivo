@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/desktop.PNG" alt="Demonstração do projeto em desktop" width = "100%" />
+  <img src="images/dsk.PNG" alt="Demonstração do projeto em desktop" width = "100%" />
   <img src="images/mobile.PNG" alt="Demonstração do projeto em mobile" width = "50%" height = "50%"/>
 </p>
 
