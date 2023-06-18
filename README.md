@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="images/desktop.PNG" alt="Demonstração do projeto em desktop" width = "50%" />
-  <img src="images/mobile.PNG" alt="Demonstração do projeto em mobile" width = "50%" />
+  <img src="images/desktop.PNG" alt="Demonstração do projeto em desktop" width = "70%" />
+  <img src="images/mobile.PNG" alt="Demonstração do projeto em mobile" width = "50%" height = "50%"/>
 </p>
 
 ## 🖥️ Projeto
